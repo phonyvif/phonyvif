@@ -1,4 +1,4 @@
-## Hi there 👋
+## SNAKE IS "RULE"
 <img src="https://github.com/phonyvif/phonyvif/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 **phonyvif/phonyvif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
