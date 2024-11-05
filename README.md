@@ -1,5 +1,9 @@
 ## SNAKE IS "RULE"🐍
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
 <img src="https://github.com/phonyvif/phonyvif/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
 <!--
 **phonyvif/phonyvif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
